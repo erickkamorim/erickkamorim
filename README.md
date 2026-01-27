@@ -61,6 +61,7 @@ Tenho experiência em **transformar dados brutos em insights**, reduzir inconsis
 
 ## 📚 Formação & Cursos Relevantes
 
+- **Tecnologia em Banco de Dados** — Faculdade Impacta (Em andamento)
 - **Análise de Negócios & BPM** — mapeamento, padronização e melhoria de processos  
 - **Análise Estatística e Qualidade de Processos** — estatística aplicada e indicadores de qualidade  
 - **SQL para Análise de Dados** — consultas, agregações e análise relacional  
