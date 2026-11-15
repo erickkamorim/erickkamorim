@@ -1,86 +1,62 @@
-# Erick Amorim — Analista de Dados & BI | Indicadores e Performance
+<h1>Erick Amorim — Logística & Dados</h1>
 
-📍 Brasil
+**Analista de Logística (Projetos) que constrói produtos de dados de ponta a ponta:** da fonte oficial ao painel publicado, com validação, automação e cada número rastreável até a origem.
 
-Atuo com **análise de dados, automação de relatórios e desenvolvimento de dashboards gerenciais**, apoiando a **tomada de decisão** por meio de métricas claras, indicadores acionáveis e análises comparativas.
+Venho da operação — fulfillment, PCP e gestão de equipe — e uso dados para responder perguntas que a operação e o negócio realmente fazem: *onde o prazo se perde, por que o resultado mudou, o que está fora do normal*.
 
-Tenho experiência em **transformar dados brutos em insights**, reduzir inconsistências, otimizar processos e estruturar **KPIs de acompanhamento de performance**, sempre com foco em eficiência e melhoria contínua.
-
-🛠️ Power BI • SQL • Excel Avançado • DAX
-
----
-
-## 🌐 Onde me encontrar
-
-<p align="left">
-  <a href="https://github.com/erickkamorim" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-erickkamorim-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/erickkamorim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Erick%20Amorim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://wa.me/5511933184632" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+<p>
+  <a href="https://erickkamorim.github.io"><img src="https://img.shields.io/badge/Portfólio-erickkamorim.github.io-111827?style=for-the-badge" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/erickkamorim"><img src="https://img.shields.io/badge/LinkedIn-Erick%20Amorim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/5511933184632"><img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 ---
 
-## 🧠 O que eu faço
+## Projetos em destaque
 
-- 📊 Análise de dados focada em performance e tomada de decisão  
-- 📈 Definição, acompanhamento e análise de KPIs  
-- 🧩 Criação de dashboards gerenciais (Power BI e Excel)  
-- ⚙️ Análise de processos e melhoria contínua  
-- 🤖 Automação de relatórios e padronização de dados  
-- 🧠 Tradução de dados em insights acionáveis  
+### [BB Intelligence](https://github.com/erickkamorim/bb-intelligence) · [ver o site](https://bb-intelligence-lilac.vercel.app)
+Plataforma de inteligência financeira sobre o Banco do Brasil com dados públicos da CVM, do Banco Central e do RI. Explica **por que o lucro mudou** (ponte linha a linha da DRE), sinaliza o que saiu do normal e compara o BB com Itaú, Bradesco, Santander e Caixa. Separa lucro contábil, ajustado e regulatório, e mostra fonte e página em cada número.
+`Python` `PostgreSQL` `FastAPI` `Next.js` `TypeScript` `GitHub Actions`
 
----
+### [NEXUS Intelligence](https://github.com/erickkamorim/nexus-intelligence) · [ver o painel](https://erickkamorim.github.io/nexus-intelligence/)
+Inteligência econômica com dados oficiais do Banco Central: Selic, inflação, juro real e dólar, com coleta automática, validação de qualidade e previsões comparadas a referências simples e ao Boletim Focus.
+`Python` `PostgreSQL` `FastAPI` `pandas` `statsmodels` `GitHub Actions`
 
-## 🛠️ Tecnologias & Ferramentas
+### [FLUXO · Performance Logística](https://github.com/erickkamorim/performance-logistica) · [ver o painel](https://erickkamorim.github.io/performance-logistica/)
+Painel com ~95 mil pedidos reais de e-commerce: 93% no prazo, 74% do lead time gasto em transporte e um atraso 3,9 vezes maior quando o vendedor posta fora do limite. Filtros por período e estado e base tratada para download.
+`SQL` `Python` `pandas` `JavaScript` `SVG`
 
-### 📊 Data & Analytics
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-512BD4?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel%20Avan%C3%A7ado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### [LUPA · Análise de Pedidos com SQL](https://github.com/erickkamorim/analise-pedidos-sql) · [ver o site](https://erickkamorim.github.io/analise-pedidos-sql/)
+Oito perguntas de um time de logística respondidas com SQL sobre os mesmos ~95 mil pedidos: rotas que mais atrasam, impacto do atraso na nota do cliente e se o prazo prometido é realista.
+`SQL` `CTEs` `funções de janela` `SQLite`
 
-### 📈 Análise & Processos
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0A66C2?style=for-the-badge)
-![KPIs](https://img.shields.io/badge/KPIs-1F2937?style=for-the-badge)
-![Process Improvement](https://img.shields.io/badge/Process%20Improvement-065F46?style=for-the-badge)
-
-### 🛠️ Ferramentas
-![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### [Dashboard Executivo ANAC](https://github.com/erickkamorim/dashboard-anac-powerbi)
+Evolução da aviação civil brasileira de 2000 a 2022 com dados abertos da ANAC, modelagem em Power Query e KPIs em DAX.
+`Power BI` `DAX` `Power Query` `SQL`
 
 ---
 
-## 📚 Formação & Cursos Relevantes
+## Como eu trabalho
 
-- **Tecnologia em Banco de Dados** — Faculdade Impacta (Em andamento)
-- **Análise de Negócios & BPM** — mapeamento, padronização e melhoria de processos  
-- **Análise Estatística e Qualidade de Processos** — estatística aplicada e indicadores de qualidade  
-- **SQL para Análise de Dados** — consultas, agregações e análise relacional  
-- **Excel Avançado** — Power Query, tabelas dinâmicas e automação  
-- **Excel VBA** — automação de processos e desenvolvimento de soluções em Excel  
-- **Automatização de Processos** — otimização de fluxos e redução de atividades manuais  
-- **Estruturação de Projetos** — organização, análise e acompanhamento de projetos  
+- **Pergunta antes do gráfico.** Cada painel começa pelas decisões que precisa apoiar.
+- **Fonte oficial e rastreável.** Coleta direto da origem, guarda o documento e mostra de onde veio cada número.
+- **Dado errado não passa.** Validações barram a carga quando os números não fecham; ausência aparece como "sem dado", nunca como zero.
+- **Automatizado e publicado.** Pipelines agendados, testes e deploy, para o painel continuar certo sem ninguém atualizar à mão.
 
-### 📌 Em andamento
-- **Scrum & Metodologias Ágeis**
+## Ferramentas
 
----
+**Dados e análise:** Python (pandas) · SQL (PostgreSQL, SQLite) · Power BI · DAX · Power Query · Excel avançado e VBA  
+**Engenharia e produto:** FastAPI · Next.js · TypeScript · GitHub Actions · Git  
+**Operação:** KPIs logísticos · PCP · fulfillment · melhoria de processos · gestão de equipes e escalas
 
-## 🚀 Filosofia
+## Trajetória
 
-> _"Dados só geram valor quando apoiam decisões claras,  
-revelam oportunidades de melhoria e impulsionam melhores resultados."_
+- **Analista de Logística – Projetos** · desde 09/2026
+- **Assistente de Logística (Fulfillment)** · Grupo Casas Bahia · 01/2025 – 08/2026
+- **Analista de PCP Júnior** · SISCOM · 02/2024 – 01/2025, promovido de Assistente Administrativo Backoffice
+- **Liderança em gerenciamento de risco** · equipe de 18 pessoas em São Bernardo do Campo e Manaus, com gestão de escalas e automação de processos
 
----
+## Formação
 
-⭐ Se este perfil foi útil para você, fique à vontade para explorar os repositórios  
-🤝 Sempre aberto a trocas, colaborações e novos desafios
+- **Tecnólogo em Ciência de Dados** · UNINTER · previsão 01/2028
+- **Tecnólogo em Logística e Supply Chain** · UNINTER · previsão 01/2028
